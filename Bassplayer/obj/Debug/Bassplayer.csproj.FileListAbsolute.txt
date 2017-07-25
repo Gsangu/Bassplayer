@@ -1,0 +1,57 @@
+F:\VS练习\Bassplayer\Bassplayer\obj\Debug\Bassplayer.csprojResolveAssemblyReference.cache
+F:\VS练习\Bassplayer\Bassplayer\obj\Debug\Bassplayer.Form1.resources
+F:\VS练习\Bassplayer\Bassplayer\obj\Debug\Bassplayer.Properties.Resources.resources
+F:\VS练习\Bassplayer\Bassplayer\obj\Debug\Bassplayer.csproj.GenerateResource.Cache
+F:\VS练习\Bassplayer\Bassplayer\bin\Debug\Bassplayer.exe
+F:\VS练习\Bassplayer\Bassplayer\bin\Debug\Bassplayer.pdb
+F:\VS练习\Bassplayer\Bassplayer\bin\Debug\Bass.Net.dll
+F:\VS练习\Bassplayer\Bassplayer\bin\Debug\Bass.Net.xml
+F:\VS练习\Bassplayer\Bassplayer\obj\Debug\Bassplayer.exe
+F:\VS练习\Bassplayer\Bassplayer\obj\Debug\Bassplayer.pdb
+F:\VS练习\Bassplayer\Bassplayer\bin\Debug\Bassplayer.exe.config
+F:\0播放器资料\Bassplayer\Bassplayer\bin\Debug\Bassplayer.exe.config
+F:\0播放器资料\Bassplayer\Bassplayer\obj\Debug\Bassplayer.exe
+F:\0播放器资料\Bassplayer\Bassplayer\obj\Debug\Bassplayer.pdb
+F:\0播放器资料\Bassplayer\Bassplayer\bin\Debug\Bassplayer.exe
+F:\0播放器资料\Bassplayer\Bassplayer\bin\Debug\Bassplayer.pdb
+F:\0播放器资料\Bassplayer\Bassplayer\bin\Debug\Bass.Net.xml
+F:\0播放器资料\Bassplayer\Bassplayer\obj\Debug\Bassplayer.csprojResolveAssemblyReference.cache
+F:\0播放器资料\Bassplayer\Bassplayer\obj\Debug\Bassplayer.Form1.resources
+F:\0播放器资料\Bassplayer\Bassplayer\obj\Debug\Bassplayer.Properties.Resources.resources
+F:\0播放器资料\Bassplayer\Bassplayer\obj\Debug\Bassplayer.csproj.GenerateResource.Cache
+C:\Users\Gsan\Documents\Visual Studio 2015\Projects\Bassplayer\Bassplayer\bin\Debug\Bassplayer.exe.config
+C:\Users\Gsan\Documents\Visual Studio 2015\Projects\Bassplayer\Bassplayer\obj\Debug\Bassplayer.exe
+C:\Users\Gsan\Documents\Visual Studio 2015\Projects\Bassplayer\Bassplayer\obj\Debug\Bassplayer.pdb
+C:\Users\Gsan\Documents\Visual Studio 2015\Projects\Bassplayer\Bassplayer\obj\Debug\Bassplayer.Form1.resources
+C:\Users\Gsan\Documents\Visual Studio 2015\Projects\Bassplayer\Bassplayer\obj\Debug\Bassplayer.Properties.Resources.resources
+C:\Users\Gsan\Documents\Visual Studio 2015\Projects\Bassplayer\Bassplayer\obj\Debug\Bassplayer.csproj.GenerateResource.Cache
+C:\Users\Gsan\Documents\Visual Studio 2015\Projects\Bassplayer\Bassplayer\bin\Debug\Bassplayer.exe
+C:\Users\Gsan\Documents\Visual Studio 2015\Projects\Bassplayer\Bassplayer\bin\Debug\Bassplayer.pdb
+C:\Users\Gsan\Documents\Visual Studio 2015\Projects\Bassplayer\Bassplayer\bin\Debug\CSkin.dll
+C:\Users\Gsan\Documents\Visual Studio 2015\Projects\Bassplayer\Bassplayer\bin\Debug\CSkin.xml
+C:\Users\Gsan\Documents\Visual Studio 2015\Projects\Bassplayer\Bassplayer\obj\Debug\Bassplayer.Download.resources
+C:\Users\Gsan\Documents\Visual Studio 2015\Projects\Bassplayer\Bassplayer\obj\Debug\Bassplayer.SearchAllLrc.resources
+C:\Users\Gsan\Documents\Visual Studio 2015\Projects\Bassplayer\Bassplayer\bin\Debug\Bassplayer.exe.manifest
+C:\Users\Gsan\Documents\Visual Studio 2015\Projects\Bassplayer\Bassplayer\bin\Debug\Bassplayer.application
+C:\Users\Gsan\Documents\Visual Studio 2015\Projects\Bassplayer\Bassplayer\obj\Debug\Bassplayer.exe.manifest
+C:\Users\Gsan\Documents\Visual Studio 2015\Projects\Bassplayer\Bassplayer\obj\Debug\Bassplayer.application
+C:\Users\Gsan\Documents\Visual Studio 2015\Projects\Bassplayer\Bassplayer\obj\Debug\Bassplayer.csprojResolveAssemblyReference.cache
+C:\Users\Gsan\Documents\Visual Studio 2015\Projects\Bassplayer\Bassplayer\obj\Debug\Bassplayer.AboutMe.resources
+D:\我的文档\Visual Studio 2015\Projects\Bassplayer\Bassplayer\bin\Debug\Bassplayer.exe.config
+D:\我的文档\Visual Studio 2015\Projects\Bassplayer\Bassplayer\obj\Debug\Bassplayer.exe
+D:\我的文档\Visual Studio 2015\Projects\Bassplayer\Bassplayer\obj\Debug\Bassplayer.pdb
+D:\我的文档\Visual Studio 2015\Projects\Bassplayer\Bassplayer\bin\Debug\Bassplayer.exe.manifest
+D:\我的文档\Visual Studio 2015\Projects\Bassplayer\Bassplayer\bin\Debug\Bassplayer.application
+D:\我的文档\Visual Studio 2015\Projects\Bassplayer\Bassplayer\bin\Debug\Bassplayer.exe
+D:\我的文档\Visual Studio 2015\Projects\Bassplayer\Bassplayer\bin\Debug\Bassplayer.pdb
+D:\我的文档\Visual Studio 2015\Projects\Bassplayer\Bassplayer\bin\Debug\CSkin.dll
+D:\我的文档\Visual Studio 2015\Projects\Bassplayer\Bassplayer\bin\Debug\CSkin.xml
+D:\我的文档\Visual Studio 2015\Projects\Bassplayer\Bassplayer\obj\Debug\Bassplayer.csprojResolveAssemblyReference.cache
+D:\我的文档\Visual Studio 2015\Projects\Bassplayer\Bassplayer\obj\Debug\Bassplayer.AboutMe.resources
+D:\我的文档\Visual Studio 2015\Projects\Bassplayer\Bassplayer\obj\Debug\Bassplayer.Download.resources
+D:\我的文档\Visual Studio 2015\Projects\Bassplayer\Bassplayer\obj\Debug\Bassplayer.Form1.resources
+D:\我的文档\Visual Studio 2015\Projects\Bassplayer\Bassplayer\obj\Debug\Bassplayer.Properties.Resources.resources
+D:\我的文档\Visual Studio 2015\Projects\Bassplayer\Bassplayer\obj\Debug\Bassplayer.SearchAllLrc.resources
+D:\我的文档\Visual Studio 2015\Projects\Bassplayer\Bassplayer\obj\Debug\Bassplayer.csproj.GenerateResource.Cache
+D:\我的文档\Visual Studio 2015\Projects\Bassplayer\Bassplayer\obj\Debug\Bassplayer.exe.manifest
+D:\我的文档\Visual Studio 2015\Projects\Bassplayer\Bassplayer\obj\Debug\Bassplayer.application

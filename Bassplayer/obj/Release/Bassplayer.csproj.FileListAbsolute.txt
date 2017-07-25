@@ -1,0 +1,8 @@
+C:\Users\Gsan\Documents\Visual Studio 2015\Projects\Bassplayer\Bassplayer\bin\Release\Bassplayer.exe.config
+C:\Users\Gsan\Documents\Visual Studio 2015\Projects\Bassplayer\Bassplayer\obj\Release\Bassplayer.Download.resources
+C:\Users\Gsan\Documents\Visual Studio 2015\Projects\Bassplayer\Bassplayer\obj\Release\Bassplayer.Form1.resources
+C:\Users\Gsan\Documents\Visual Studio 2015\Projects\Bassplayer\Bassplayer\obj\Release\Bassplayer.Properties.Resources.resources
+C:\Users\Gsan\Documents\Visual Studio 2015\Projects\Bassplayer\Bassplayer\obj\Release\Bassplayer.SearchAllLrc.resources
+C:\Users\Gsan\Documents\Visual Studio 2015\Projects\Bassplayer\Bassplayer\obj\Release\Bassplayer.csproj.GenerateResource.Cache
+C:\Users\Gsan\Documents\Visual Studio 2015\Projects\Bassplayer\Bassplayer\obj\Release\Bassplayer.csprojResolveAssemblyReference.cache
+C:\Users\Gsan\Documents\Visual Studio 2015\Projects\Bassplayer\Bassplayer\obj\Release\Bassplayer.AboutMe.resources
