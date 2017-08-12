@@ -96,17 +96,17 @@
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(429, 20);
             this.label3.TabIndex = 4;
-            this.label3.Text = "如有侵犯您的权益，您可以第一时间联系我。我会马上进行处理";
-            // 
+            this.label3.Text = "本软件只作学习交流之用，";
+            //
             // label5
-            // 
+            //
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("微软雅黑", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.label5.Location = new System.Drawing.Point(231, 56);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(204, 20);
             this.label5.TabIndex = 6;
-            this.label5.Text = "未经允许不得二次更改和发布";
+            this.label5.Text = "如有侵犯您的权益，您可以第一时间联系我。我会马上进行处理";
             // 
             // label6
             // 
@@ -117,26 +117,6 @@
             this.label6.Size = new System.Drawing.Size(339, 20);
             this.label6.TabIndex = 7;
             this.label6.Text = "播放器界面为防网易云音乐界面，后续会进行更改";
-            // 
-            // label7
-            // 
-            this.label7.AutoSize = true;
-            this.label7.Font = new System.Drawing.Font("微软雅黑", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label7.Location = new System.Drawing.Point(19, 56);
-            this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(249, 20);
-            this.label7.TabIndex = 8;
-            this.label7.Text = "本软件为中职院软件设计大赛作品，";
-            // 
-            // label4
-            // 
-            this.label4.AutoSize = true;
-            this.label4.Font = new System.Drawing.Font("微软雅黑", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label4.Location = new System.Drawing.Point(19, 152);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(122, 20);
-            this.label4.TabIndex = 9;
-            this.label4.Text = "QQ: 929390325";
             // 
             // label8
             // 
@@ -183,16 +163,6 @@
             this.linkLabel1.TabStop = true;
             this.linkLabel1.Text = "gsanweb.cn";
             this.linkLabel1.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.linkLabel1_LinkClicked);
-            // 
-            // label10
-            // 
-            this.label10.AutoSize = true;
-            this.label10.Font = new System.Drawing.Font("微软雅黑", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label10.Location = new System.Drawing.Point(19, 201);
-            this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(338, 20);
-            this.label10.TabIndex = 14;
-            this.label10.Text = "Copyright© 2016 中职院. All Rights Reserved.";
             // 
             // AboutMe
             // 
